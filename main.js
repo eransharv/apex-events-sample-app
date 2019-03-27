@@ -10,6 +10,8 @@ var g_interestedInFeatures = [
   'match_state',
   'me',
   'revive',
+  'team',
+  'roster',
   'team'
 ];
 
