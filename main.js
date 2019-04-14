@@ -12,7 +12,7 @@ var g_interestedInFeatures = [
   'revive',
   'team',
   'roster',
-  'team'
+  'kill_feed'
 ];
 
 function registerEvents() {
